@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 import React from "react";
 import Carousel from "../../components/Ui/Carousel/Carousel";
 import PaginationAntd from "../../components/Ui/Pagination/Pagination";

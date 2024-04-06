@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 import React, { useState } from "react";
 import Logo from "../../assets/Images/Logo.svg";
 import { Link, NavLink } from "react-router-dom";

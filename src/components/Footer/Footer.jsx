@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 import React from "react";
 import footerIcon from "../../assets/Images/Frame.svg";
 import footerIcon2 from "../../assets/Images/Frame2.svg";

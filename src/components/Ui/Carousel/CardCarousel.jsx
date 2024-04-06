@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 import React, { useRef, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import CardCarusel from "../../../assets/Images/image3.png";
