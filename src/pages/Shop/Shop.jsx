@@ -7,8 +7,7 @@ const Shop = () => {
       <section className="pt-[85px]">
         <div className="container mx-auto">
           <div className="flex justify-between pt-10">
-            <div className="w-[600px] h-[440px] bg-slate-400">HUllas</div>
-            <div className="w-[600px] h-[440px] bg-slate-400">HUllas</div>
+            
           </div>
           <div>
             <div className="w-full pt-16">
